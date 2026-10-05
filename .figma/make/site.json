@@ -1,0 +1,10 @@
+{
+  "description": "Effortlessly capture, organize, and retrieve information like links, texts, and images with this intuitive app designed for personal productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
